@@ -2,6 +2,7 @@
 Expanding this research to hybrid MPPT techniques and integrating machine learning for adaptive performance under dynamic weather conditions.
 Project Overview:
 This project investigates the control of Maximum Power Point Tracking (MPPT) in grid-connected photovoltaic (PV) systems, aiming to enhance power efficiency and ensure stable voltage output. Using advanced simulation and hardware prototypes, the study compares two key MPPT techniques—Incremental Conductance (InC) and Perturb & Observe (P&O)—to identify the optimal method for maximum power transfer under varying environmental conditions.
+![Without S Full_page-0001](https://github.com/user-attachments/assets/280c8ce7-cedc-4637-b211-386d7862fbc7)
 
 Problem Statement:
 Grid-connected PV systems face efficiency issues due to nonlinear I-V characteristics, voltage instability, and weather-dependent performance. Despite modifications like advanced panels and additional batteries, challenges like voltage fluctuation and low power transfer persist. The project seeks to address these issues by implementing and evaluating different MPPT algorithms.
