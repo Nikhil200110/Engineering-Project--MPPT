@@ -23,31 +23,38 @@ Data Preparation:
 
 Modeled PV array characteristics using MATLAB.
 Simulated environmental variations (irradiance and temperature).
+
 Exploratory Analysis:
 
 Analyzed I-V and P-V curves for PV arrays to identify MPP.
 Evaluated system performance with and without MPPT under varying conditions.
+
 Hypothesis Testing:
 
 Hypothesis: Incremental Conductance provides better performance than P&O.
 Results showed Incremental Conductance achieves higher efficiency (above 98%) and accurate tracking under changing conditions.
+
 Simulation Analysis:
 
 Developed models for P&O and Incremental Conductance MPPT.
 Results confirmed better power transfer with Incremental Conductance.
+
 Hardware Testing:
 
 Created dual-mode MPPT kit with P&O and Incremental Conductance algorithms.
 Compared outputs for accuracy and response time under controlled lab conditions.
+
 Key Findings:
 
 Incremental Conductance surpasses P&O in accuracy, efficiency, and adaptability to varying irradiance.
 P&O is faster but less stable under fluctuating conditions.
 Optimal settings for maximum efficiency were identified for practical implementation.
+
 Business Impact:
 
 Improved efficiency and stability of grid-connected PV systems.
 Reduced power losses and operational costs.
 Enhanced adaptability for residential and industrial applications.
+
 Conclusion:
 This project emphasizes the importance of choosing the right MPPT algorithm to maximize power transfer and efficiency in grid-connected PV systems. Incremental Conductance proved superior, offering better performance in real-world conditions.
